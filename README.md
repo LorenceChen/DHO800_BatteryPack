@@ -32,12 +32,15 @@
 **文档说明**：<br>
 
 1.PCB_Project
+
 包含生产三块PCB所需的Altium Designer工程源文件。
 
 2.BOM
+
 包含焊接三块PCB所需的物料清单，下载后使用浏览器打开。
 
 3.Model
+
 包含3D打印外壳和按键所需的模型文件，step格式。
 
 
