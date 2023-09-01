@@ -13,7 +13,7 @@
 **整机BOM**:
 | 名称       | 型号                                  | 数量 |
 | ---------- | ------------------------------------- | ---- |
-| 3D打印外壳 | DHO800_BatteryPack_CASE_V1.1_Realse   |  1    |
+| 3D打印外壳 | DHO800_BatteryPack_CASE_V1.1_Realse   | 1    |
 | 3D打印按键 | DHO800_BatteryPack_BUTTON_V1.1_Realse | 1    |
 | PCBA       | DHO800_BatteryPack_IP5389_V1.1_Realse | 1    |
 | PCBA       | DHO800_BatteryPack_LED_V1.1_Realse    | 1    |
@@ -28,6 +28,7 @@
 | 铜线       | RV软线1.5平方黑色20cm                 | 1    |
 | 手拧螺丝   | M4x8                                  | 4    |
 | 宝塔压簧   | 0.4x4/8x10                            | 2    |
+| 散热片     | 9x9x5mm带胶                           |  1    |
 
 **文档说明**：<br>
 
@@ -43,4 +44,6 @@
 
 包含3D打印外壳和按键所需的模型文件，step格式。
 
+4.Datasheet
 
+元器件Datasheet以及参考设计等资料。
