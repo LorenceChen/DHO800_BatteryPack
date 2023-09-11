@@ -2,7 +2,7 @@
 
 **为DHO800/900系列示波器设计的电池包（BatteryPack Designed for DHO800/900 Series Oscilloscopes）**
 
-<img width="1806" alt="DHO800" src="https://github.com/LorenceChen/DHO800_BatteryPack/assets/34826536/ece5a018-be7e-4bcd-9499-fe28352b402f">
+<img width="1424" alt="DHO800" src="https://github.com/LorenceChen/DHO800_BatteryPack/assets/34826536/033e8d1b-04b7-405f-97d5-e8c8fefa4cf2">
 
 **项目简介**：采用两节21700电池供电，带充放电保护与主动均衡，可更换电池设计，便于拆卸通过安检。续航时间1小时。不影响原设备的任何功能(散热、壁挂、接口插拔)。支持电量显示。支持对外PD供电输出。限制充放电功率45W。
 
