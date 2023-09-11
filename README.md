@@ -8,9 +8,9 @@
 
 **注意事项**：更换电池后需插电激活使用，弹簧压力低震动可能掉电。触点螺钉可选圆头以避免刮电池皮。打印壳体尺寸较大可能会变形，可用重物压平放置一段时间。
 
-**哔哩哔哩**：
+**哔哩哔哩**：https://www.bilibili.com/video/BV1hm4y1P7HL/
 
-**YouTube**：
+**YouTube**：https://youtu.be/MbBq1AVIQAc
 
 **整机BOM**:
 | 名称       | 型号                                  | 数量 |
